@@ -7,7 +7,7 @@
 $base-font-family:     'Source Code Pro', monospace !default;
 $base-font-size:       12.5px !default;
 $mobile-font-size:     12px !default;
-$base-line-height:     1.5 !default;
+$base-line-height:     1.75 !default;
 $container-width:      90% !default;
 $container-max-width:  600px !default;
 
@@ -57,8 +57,8 @@ footer { margin-bottom: 20px; }
 .menu { border-top: var(--border);  border-bottom: var(--border);  margin-bottom: 25px; }
 .menu ul { margin-top: 12px;  margin-bottom: 12px;  padding-left: 0px;  list-style-type: none;  text-align: right; }
 .menu ul li { display: inline;  margin-left: 10px; }
-.menu ul li a { text-decoration: none;  color: var(--text-color); }
-.menu ul li a:hover { text-decoration: none; color: var(--background-color); background-color: var(--base-color); }
+.menu ul li a { text-decoration: none;  color: var(--heading-color); }
+.menu ul li a:hover { text-decoration: none; color: var(--heading-color); background-color: var(--base-color); }
 
 /**
  * Form

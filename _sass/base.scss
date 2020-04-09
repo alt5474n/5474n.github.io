@@ -22,7 +22,7 @@ p, ul, ol { margin: 0px;  color: var(--text-color); }
 a { text-decoration: underline;  color: var(--link-color); }
 a:hover { color: var(--link-color); background-color: var(--base-color); }
 .primary-text { color: var(--primary-color); }
-blockquote { font-size: $base-font-size; font-family: $base-font-family;  font-size: $base-font-size;  color: var(--quote-color);  text-align: left;  line-height: $base-line-height !important; }
+blockquote p { font-size: $base-font-size; font-family: $base-font-family;  font-size: $base-font-size;  color: var(--quote-color);  text-align: left;  line-height: $base-line-height !important; }
 @media only screen and (max-device-width: 500px) { * { font-size: $mobile-font-size !important; } }
 /*h1:before { content: "#";  margin-right: 9px; }
 h2:before { content: "##";  margin-right: 9px; }

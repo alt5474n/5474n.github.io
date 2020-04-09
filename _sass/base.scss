@@ -45,6 +45,10 @@ footer { margin-bottom: 20px; }
 ::-moz-selection { background: var(--selection-background);  color: var(--selection-text); }
 
 /**
+ * Blockquotes
+ */
+blockquote { font-size: $base-font-size; font-family: $base-font-family;  font-size: $base-font-size;  color: var(--quote-color);  text-align: left;  line-height: $base-line-heigh    t !important; }
+/**
  * Lists
  */
 :not(.menu) > ul { list-style: none;  padding-left: 0; }

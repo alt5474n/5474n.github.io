@@ -6,4 +6,4 @@ permalink: /
 
 # void_Nihil
 
-Everything. And nothing.
+Nothing. And everything.

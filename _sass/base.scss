@@ -20,6 +20,7 @@ p, ul, ol { margin: 0px;  color: var(--text-color); }
 a { text-decoration: underline;  color: var(--link-color); }
 a:hover { color: var(--link-color); background-color: var(--base-color); }
 .primary-text { color: var(--primary-color); }
+blockquote { font-size: $base-font-size; font-family: $base-font-family;  font-size: $base-font-size;  color: var(--quote-color);  text-align: left;  line-height: $base-line-height !important; }
 @media only screen and (max-device-width: 500px) { * { font-size: $mobile-font-size !important; } }
 /*h1:before { content: "#";  margin-right: 9px; }
 h2:before { content: "##";  margin-right: 9px; }
@@ -33,6 +34,7 @@ h6:before { content: "######";  margin-right: 9px; }*/
  */
 .container { width: $container-width;  max-width: $container-max-width;  margin-right: auto;  margin-left: auto; }
 p { word-wrap: break-word;  word-break: break-word;  white-space: pre-wrap; }
+blockquote { font-size: $base-font-size; font-family: $base-font-family;  font-size: $base-font-size;  color: var(--quote-color);  text-align: left;  line-height: $base-line-height !important; }
 footer { color: var(--text-color);  border-top: var(--border);  margin: 20px auto 15px;  padding-top: 10px;  text-align: right; }
 header { margin-top: 25px;  margin-bottom: 10px; }
 header p { text-align: left;  margin: 0; }

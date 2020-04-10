@@ -18,10 +18,10 @@ Why are the Abrahamic religions so blood-thirsty and death-obsessed? Why is it t
 
 Why not just forgive? Ironically, isn't this exactly what the Christ taught?
 
-And...forgive what exactly? Forgive a creation for being what it was created to be? Christ&emdash;no pun intended&emdash;what an absurdity.
+And...forgive what exactly? Forgive a creation for being what it was created to be? Christ&#151;no pun intended&#151;what an absurdity.
 
 I take it back. I don't get it.
 
 Religion is stupid.
 
-No matter, enjoy your Friday&emdash;be it good or otherwise unaffiliated.
+No matter, enjoy your Friday&#151;be it good or otherwise unaffiliated.

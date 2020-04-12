@@ -2,6 +2,10 @@
 
 #google_analytics: UA-NNNNNNNN-N
 
+title: lux:cipher
+description: Nothing. And everything.
+author: void nihil
+
 header_pages:
   - index.md
   - about.md
@@ -13,3 +17,5 @@ style: dark # dark (default) or light
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-feed
+

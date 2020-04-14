@@ -7,7 +7,7 @@ title:  "sanityCheck.py"
 
 Perhaps the following quote is an odd source of inspiration for this post, but so be it:
 
-> "Be fearful when others are greedy and greedy when others are fearful."  
+> "Be fearful when others are greedy and greedy when others are fearful."
 > ---Warren Buffett
 
 The above advice is in regard to investing, particularly with regard to managing one's emotions in their investment endeavors.  

@@ -5,6 +5,8 @@
 title: lux:cipher
 description: Nothing. And everything.
 author: void nihil
+url: "https://luxcipher.com"
+markdown: kramdown
 
 header_pages:
   - index.md

@@ -24,7 +24,7 @@ These are inscrutable times. Each of us confined to our homes&#151;or at least w
 
 Solitude forces us to look at ourselves.
 
-In such a noisy and complacent culture, forced self-observance can be devastating ask of the untrained individual. But, there's as much to learn from between our own two ears as there is beyond our own two eyes. Perhaps more.
+In such a noisy and complacent culture, forced self-observance can be a devastating ask of the untrained individual. But, there's as much to learn from between our own two ears as there is beyond our own two eyes. Perhaps more.
 
 Embrace these moments of stillness; of self-observance. Learn and grow in these times. And carry the relationship with _Self_ beyond this quarantine and into the time when we are allowed to return to some semblance of social normalcy.
 

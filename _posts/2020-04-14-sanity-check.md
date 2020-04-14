@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "helloWorld.go"
+title:  "sanityCheck.py"
 ---
 
 # def testSanity(self):

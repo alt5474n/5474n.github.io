@@ -11,9 +11,9 @@ Perhaps the following quote is an odd source of inspiration for this post, but s
 > ---Warren Buffett
 
 The above advice is in regard to investing, particularly with regard to managing one's emotions in their investment endeavors.  
-
+  
 Certainly this quote is applicable at this time&#151;a time of abject uncertainty in finances, for sure&#151;but I think we can draw from it with regard to our lives, society, and well-being.  
-
+  
 Allow me to rephrase it:
 
 > "Be wary when others are oblivious and be mindfully stoic when others are losing their fucking shit."

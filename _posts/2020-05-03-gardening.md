@@ -3,6 +3,8 @@ layout: post
 title: OurFirstGarden.ppt
 ---
 
+# STEP ONE: Put something in the ground
+
 Built a couple garden beds over the weekend and planted some vegetables.
 
 Growing our own food is a target goal for us. While we're nowhere near achieving that goal, this is a great first step.

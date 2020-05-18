@@ -7,7 +7,7 @@ title: everythingsMagic.sh
 
 I stopped caring about these headings...just now. 
 
-More impoetantlt...
+More importantly...
 
 I’ve binged the Showtime docu-series "Shangra-La" and it’s been great. I’ve always loved the music Rick Rubin has brought to us, what he’s done to the music industry in general...but man.
 

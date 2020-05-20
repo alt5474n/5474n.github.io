@@ -1,5 +1,5 @@
 ---
-title: lux:cipher
+title: lux&#x2234;cipher
 layout: home
 permalink: /
 ---

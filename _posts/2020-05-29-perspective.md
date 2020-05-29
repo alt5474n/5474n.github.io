@@ -16,9 +16,9 @@ Many of us saw this as simply "the right thing to do," while others have wailed 
 
 These attachments&#151;or expectations&#151;of what life, freedom, etc. means are evidence of the Buddha's awareness. You can palpably feel the suffering of the world against anything that encroaches upon their attachments.
 
-See for example one Donald J. Trump who's attacking a social media platform for suggesting his tweets be fact-checked. If that's not the height of absurdity, the fact that he's used said platform to state his willingness to enact military violence against "_THUGS_" (let's be clear, he means "black people" and his constituents know that) must be.
+See for example one Donald J. Trump who's attacking a social media platform for suggesting his tweets be fact-checked. If that's not the height of absurdity, the fact that he's used said platform to state his willingness to enact military violence against "_THUGS_" (let's be clear, he means "_black people_" and his constituents **know** that) must be.
 
-O' that we could all see the strangs of the net attaching us each, forming us into One. I digress...perhaps my own attachment I need to mind.
+O' that we could all see the strings of the net attaching each of us, forming us into One. But I digress...perhaps it's my own attachment I need to mind.
 
 >"Attachement is the root of all suffering."
 >&#151;The Buddha
